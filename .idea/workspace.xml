@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="871b900b-2db4-4696-a252-4e4c83d4cad2" name="Changes" comment="" />
+    <list default="true" id="871b900b-2db4-4696-a252-4e4c83d4cad2" name="Changes" comment="Add class HotDrinkVendingMachine">
+      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,7 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,6 +45,66 @@
       <option name="presentableId" value="Default" />
       <updated>1685706640798</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add class Product">
+      <created>1685707051351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685707051351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add class WaterBottle">
+      <created>1685707415221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685707415221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add classes Snack and Drink">
+      <created>1685707926845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685707926845</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add class HotDrink">
+      <created>1685708124504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685708124504</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add interface VendingMachine">
+      <created>1685708245497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685708245497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add class DrinkVendingMachine">
+      <created>1685708816308</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685708816308</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add class HotDrinkVendingMachine">
+      <created>1685709129594</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685709129594</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add class Product" />
+    <MESSAGE value="Add class WaterBottle" />
+    <MESSAGE value="Add classes Snack and Drink" />
+    <MESSAGE value="Add class HotDrink" />
+    <MESSAGE value="Add interface VendingMachine" />
+    <MESSAGE value="Add class DrinkVendingMachine" />
+    <MESSAGE value="Add class HotDrinkVendingMachine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add class HotDrinkVendingMachine" />
   </component>
 </project>
